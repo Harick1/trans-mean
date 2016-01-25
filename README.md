@@ -1,7 +1,7 @@
 # trans-mean
-This is a simple tool, that transform caffe binaryproto file to python npy file.
+## This is a simple tool, that transform caffe binaryproto file to python npy file.
 
-USE
+# USE
 
 protoc --cpp_out=. BlobProto.proto
 
